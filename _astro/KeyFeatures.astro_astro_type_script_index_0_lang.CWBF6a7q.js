@@ -1,0 +1,1 @@
+import{t as e}from"./swipe.R8KXnqb6.js";document.querySelectorAll(`[data-keys]`).forEach(t=>e(t,[...t.parentElement.querySelectorAll(`.dots i`)]));

@@ -1,1 +1,0 @@
-function e(e,t,n=[...e.children]){let r=new IntersectionObserver(e=>e.forEach(e=>{e.isIntersecting&&t.forEach((t,r)=>t.toggleAttribute(`data-active`,n.indexOf(e.target)===r))}),{root:e,threshold:.6});n.forEach(e=>r.observe(e))}export{e as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./swipe.CFNV0bSt.js";document.querySelectorAll(`[data-keys]`).forEach(t=>e(t,[...t.parentElement.querySelectorAll(`.dots i`)]));
